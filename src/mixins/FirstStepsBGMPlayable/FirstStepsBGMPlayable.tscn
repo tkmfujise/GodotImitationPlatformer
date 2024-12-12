@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cg4qdlnopxduw"]
+
+[ext_resource type="Script" path="res://src/mixins/FirstStepsBGMPlayable/FirstStepsBGMPlayable.gd" id="1_l2d1s"]
+
+[node name="FirstStepsBGMPlayable" type="Node"]
+script = ExtResource("1_l2d1s")
